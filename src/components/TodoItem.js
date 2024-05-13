@@ -1,7 +1,7 @@
 import React from 'react';
 
 const TodoItem = () => {
-  return <div></div>;
+  return <div>TodoItem</div>;
 };
 
 export default TodoItem;
